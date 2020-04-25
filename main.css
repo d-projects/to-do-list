@@ -1,0 +1,47 @@
+html, body {
+  height: 100%;
+}
+
+.to-do {
+	width: 400px;
+}
+
+.choose {
+	color: green;
+	font-size: 30px;
+}
+
+.choose:hover {
+	color: blue;
+}
+
+.check {
+	color: green;
+	font-size: 30px;
+}
+
+
+.trash {
+	font-size: 30px;
+}
+
+.trash:hover {
+	color: blue;
+}
+
+.text {
+	font-size: large;
+}
+
+.add {
+	font-size: 30px;
+}
+
+.add:hover {
+	color: blue;
+}
+
+.new-todo {
+	width: 90%;
+}
+
