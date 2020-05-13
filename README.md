@@ -6,3 +6,5 @@ A user can add a new to-do task, check off a task as finished, un-check off a ta
 
 Below is an screenshot of the to-do list web app with a few tasks added.
 
+![](images/to_do_list_image.png)
+
