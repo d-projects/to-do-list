@@ -1,6 +1,6 @@
 # to-do-list
 
-This is a small web app of a to-do list, created using primarily JavaScript to manipulate the DOM.
+This is a small web app of a to-do list, created using primarily JavaScript to manipulate the DOM. It is available online at: http://dulhan-todo.herokuapp.com/
 
 A user can add a new to-do task, check off a task as finished, un-check off a task, and delete a task. Furthermore, the program saves the user's tasks so that closing and re-opening the browser doesn't delete any to-do data.
 
