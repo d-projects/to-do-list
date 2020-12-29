@@ -1,4 +1,4 @@
-a# to-do-list
+# to-do-list
 
 A simple web app of a to-do list. Available online <a href = "http://dulhan-todo.herokuapp.com/">here.</a>
 
